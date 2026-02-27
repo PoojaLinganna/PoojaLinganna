@@ -2,7 +2,7 @@
 
 🎓 Master's Student in Data Analytics (France)  
 📊 Focused on Machine Learning, Business Intelligence & Quantitative Finance  
-💻 Python | SQL | TensorFlow | Scikit-learn | Power BI  
+💻 Python | SQL | TensorFlow | Scikit-learn | Power BI  | Excel 
 
 ---
 
@@ -16,6 +16,8 @@ Customer churn classification using supervised ML models.
 
 ### 📊 Financial Risk Analysis – Tesla
 Financial performance & risk analysis with time-series modeling.
+
+.................. AND MORE .........................
 
 ---
 
@@ -31,4 +33,4 @@ Financial performance & risk analysis with time-series modeling.
 ## 📫 Contact
 📍 Rennes, France  
 📧 poojalinganna@zohomail.eu
-🔗 LinkedIn: (add full link)<!--
+🔗 LinkedIn: https://www.linkedin.com/in/pooja-l
