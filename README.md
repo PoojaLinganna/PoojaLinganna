@@ -5,11 +5,11 @@ SQL • Python • Power BI
 Machine Learning & Finance
 Dashboard Creation & Monitoring 
 
-I enjoy exploring data to uncover patterns, build predictive models, and create dashboards that support data-driven decision making. My work focuses on analytics, machine learning, financial analysis, and business intelligence.
+I enjoy exploring data to uncover patterns, build predictive models, and create dashboards that support decision making. My work focuses on analytics, machine learning, financial analysis, and business intelligence.
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 **Data Analysis**
 - SQL
@@ -27,12 +27,7 @@ I enjoy exploring data to uncover patterns, build predictive models, and create 
 - Decision Trees
 - SVM
 - Neural Networks
-- Deep Learning (LSTM, MLP)
-
-**Finance & Quantitative Analysis**
-- Algorithmic trading
-- Financial risk analysis
-- Credit risk modeling
+- Deep Learning
 
 ---
 
@@ -102,6 +97,8 @@ https://github.com/PoojaLinganna/Financial-Performance-and-Risk-Analysis-of-Tesl
 ## 📈 Interests
 
 - Data Analytics
+- Business Analyst
+- Business Intelligence
 - Consumer & Business Insights
 - Machine Learning
 - Financial Data Analysis
