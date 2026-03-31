@@ -33,6 +33,17 @@ I enjoy exploring data to uncover patterns, build predictive models, and create 
 
 ## 📊 Featured Projects
 
+### Spotify/Sparkify Customer Churn Prediction
+
+Built a predictive model to identify users likely to cancel their music streaming subscription.
+Processed and analyzed 280k+ user session events using Python and pandas.
+Performed feature engineering on user behavior (engagement, session activity, song/artist interactions).
+Developed machine learning models (Logistic Regression, Random Forest, XGBoost) and evaluated performance with accuracy, F1-score, and ROC-AUC.
+Visualized insights to help improve user retention and engagement strategies.
+
+Repo:
+
+
 ### E-commerce Sales Analytics
 End-to-end analysis of e-commerce transactions using SQL, Excel, and Power BI.
 
@@ -46,6 +57,7 @@ Repo:
 https://github.com/PoojaLinganna/ecommerce-sales-analysis
 
 ---
+### Superstore Sales Analysis
 Superstore Sales Analysis Dashboard
 Overview
 This project analyzes retail sales data using Excel and Power BI to uncover insights about sales performance, product categories, and regional trends.
