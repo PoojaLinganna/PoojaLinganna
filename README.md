@@ -44,6 +44,8 @@ I enjoy exploring data to uncover patterns, build predictive models, and create 
 Repo:
 https://github.com/PoojaLinganna/Spotify_churn-prediction
 
+---
+
 ### E-commerce Sales Analytics
 End-to-end analysis of e-commerce transactions using SQL, Excel, and Power BI.
 
