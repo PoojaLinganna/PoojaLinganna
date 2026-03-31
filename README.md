@@ -47,19 +47,6 @@ https://github.com/PoojaLinganna/ecommerce-sales-analysis
 
 ---
 
-### Spotify Churn Prediction
-Machine learning project predicting customer churn for a music streaming service.
-
-Techniques used:
-- Data preprocessing
-- Feature engineering
-- Classification models
-
-Repo:  
-https://github.com/PoojaLinganna/Spotify_churn_prediction
-
----
-
 ### Deep Learning Algorithmic Trading
 Developed models to predict cryptocurrency trends using deep learning techniques.
 
