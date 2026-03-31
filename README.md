@@ -46,6 +46,28 @@ Repo:
 https://github.com/PoojaLinganna/ecommerce-sales-analysis
 
 ---
+Superstore Sales Analysis Dashboard
+Overview
+This project analyzes retail sales data using Excel and Power BI to uncover insights about sales performance, product categories, and regional trends.
+
+Tools Used
+- Microsoft Excel (Data Cleaning & Pivot Tables)
+- Microsoft Power BI (Data Visualization & Dashboard)
+- Dataset
+- The dataset contains over 50,000 retail transactions including sales, profit, product categories, and regional data.
+
+Key insights: 
+-Total Sales and Profit KPIs
+-Sales by Region
+-Sales by Category
+-Monthly Sales Trend
+-Top 10 Products
+-Interactive Filters
+
+Repo:
+https://github.com/PoojaLinganna/superstore-sales-analysis-dashboard
+
+---
 
 ### Deep Learning Algorithmic Trading
 Developed models to predict cryptocurrency trends using deep learning techniques.
