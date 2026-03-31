@@ -96,16 +96,16 @@ https://github.com/PoojaLinganna/deep-learning-algorithmic-trading
 
 ---
 
-### Credit Default Prediction
-Machine learning models predicting the probability of credit default.
+### Credit Card Default Prediction
 
-Models compared:
-- Decision Tree
-- Linear SVM
-- RBF SVM
+- Objective: Predict credit card defaults using demographic & payment history data (UCI, 30k+ records).
+- Methods: Decision Tree, Linear SVM, Nonlinear SVM (RBF).
+- Evaluation: Confusion matrix, ROC-AUC, probability estimates.
+- Key Insights: Past payment behavior, credit limit, and bill amounts strongly influence default risk. Nonlinear models (RBF SVM) performed best.
+- Outcome: Accurate default predictions that can guide credit risk management and early intervention.
 
 Repo:  
-https://github.com/PoojaLinganna/Default-of-credit-Clients
+https://github.com/PoojaLinganna/Dafault-of-credit-Clients
 
 ---
 
