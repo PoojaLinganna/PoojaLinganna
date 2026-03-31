@@ -35,14 +35,14 @@ I enjoy exploring data to uncover patterns, build predictive models, and create 
 
 ### Spotify/Sparkify Customer Churn Prediction
 
-Built a predictive model to identify users likely to cancel their music streaming subscription.
-Processed and analyzed 280k+ user session events using Python and pandas.
-Performed feature engineering on user behavior (engagement, session activity, song/artist interactions).
-Developed machine learning models (Logistic Regression, Random Forest, XGBoost) and evaluated performance with accuracy, F1-score, and ROC-AUC.
-Visualized insights to help improve user retention and engagement strategies.
+- Built a predictive model to identify users likely to cancel their music streaming subscription.
+- Processed and analyzed 280k+ user session events using Python and pandas.
+- Performed feature engineering on user behavior (engagement, session activity, song/artist interactions).
+- Developed machine learning models (Logistic Regression, Random Forest, XGBoost) and evaluated performance with accuracy, F1-score, and ROC-AUC.
+- Visualized insights to help improve user retention and engagement strategies.
 
 Repo:
-
+https://github.com/PoojaLinganna/Spotify_churn-prediction
 
 ### E-commerce Sales Analytics
 End-to-end analysis of e-commerce transactions using SQL, Excel, and Power BI.
