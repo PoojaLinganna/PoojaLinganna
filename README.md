@@ -113,7 +113,7 @@ https://github.com/PoojaLinganna/Dafault-of-credit-Clients
 Financial analysis evaluating operational efficiency, financial risk, and bankruptcy probability.
 
 Repo:  
-https://github.com/PoojaLinganna/Financial-Performance-and-Risk-Analysis-of-Tesla-Inc.
+https://github.com/PoojaLinganna/Financial-Performance-and-Risk-Analysis-of-Tesla-Inc
 
 ---
 
